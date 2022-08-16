@@ -1,0 +1,7 @@
+section{
+   border: 2px whitesmoke dashed; 
+   padding: 2rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
